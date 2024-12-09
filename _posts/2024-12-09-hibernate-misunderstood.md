@@ -24,7 +24,7 @@ I think the best way to learn Hibernate is to:
 3. Learn how an ORM works internally. (And the JDBC driver for that matter.)
 
 * I found for the basic concepts the "Architecture" part of the documentation pretty good.
-* A very good resource to learn Hibernate on an advanced user level was the "High-Performance JPA" Course from Vlad Michalcea: https://vladmihalcea.com/courses/high-performance-java-persistence/
-* There are no good resources to directly learn the Hibernate architecture, but there is one for SqlAlchemy in Python and it was inspired by Hibernate! I advise reading that amazing chapter, going through the Hibernate source and thinking about how concepts releate to each other in both frameworks. It really helped me to solidify my understanding of ORMs: https://aosabook.org/en/v2/sqlalchemy.html
+* A very good resource to learn Hibernate on an advanced user level was the ["High-Performance JPA" Course from Vlad Michalcea](https://vladmihalcea.com/courses/high-performance-java-persistence/)
+* There are no good resources to directly learn the Hibernate architecture, but there is one for SqlAlchemy in Python and it was inspired by Hibernate! I advise reading that amazing chapter, going through the Hibernate source and thinking about how concepts releate to each other in both frameworks. [It really helped me to solidify my understanding of ORMs](https://aosabook.org/en/v2/sqlalchemy.html)
 
 That's it for now :)
