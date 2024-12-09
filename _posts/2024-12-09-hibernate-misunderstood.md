@@ -1,6 +1,6 @@
 ---
 title: "Value Proposition of Hibernate and the journey to learn it"
-date: 2024-11-05
+date: 2024-12-09
 ---
 
 I spent a fair amount of time to learn Hibernate in the past 2 months. I went from the generic concepts to the source code and the construction of an ORM system. 
