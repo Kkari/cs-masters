@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/21721818/why-does-not-hibernate-set-dynamicinsert-by-default
